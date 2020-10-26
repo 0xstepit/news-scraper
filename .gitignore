@@ -1,0 +1,8 @@
+# Exclude PyCharm .idea folders
+**.idea/
+
+# Exclude MacOS folders
+**/.DS_Store
+
+# Exclude Jupyter checkpoints
+*.ipynb_checkpoints
